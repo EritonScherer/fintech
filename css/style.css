@@ -1,0 +1,11 @@
+:root{
+    --azulFintech: #0012b1;
+}
+
+.bg-azulFintech {
+  background-color: var(--azulFintech)/* Cor de fundo personalizada */
+}
+
+.vh-80{
+  height: calc(100vh - 56px);
+}
