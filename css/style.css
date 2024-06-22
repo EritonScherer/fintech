@@ -6,6 +6,6 @@
   background-color: var(--azulFintech)/* Cor de fundo personalizada */
 }
 
-.vh-80{
+.vh-full{
   height: calc(100vh - 56px);
 }
